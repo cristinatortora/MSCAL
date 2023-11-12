@@ -1,5 +1,5 @@
 # MSCAL
-MCEM algorithm to fit the multiple scaled asymmetric Laplace
+MCEM algorithm to fit the multiple scaled contaminated asymmetric Laplace
 
 The file MSCAL.r contains all the necessary functions including 
 dMSAL rMSAL for density and random number generation and
