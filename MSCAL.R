@@ -1,8 +1,11 @@
 ################################################################
 ######## Multiple Scaled Contaminated Asymmetric Laplace #######
 ###############################################################
-## Tortora C., Franczak B.C., Bagnato L., Punzo A.
-## A Laplace-based model with flexible tail behavior
+## Reference paper
+## C. Tortora, B.C. Franczak, L. Bagnato et al., 
+## A Laplace-based model with flexible tail behavior, 
+## Computational Statistics and Data Analysis, 107909, 
+## doi: https://doi.org/10.1016/j.csda.2023.107909.
 ##
 
 
